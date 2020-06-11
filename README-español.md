@@ -10,7 +10,7 @@ otros usuarios del grupo y demás.
 ## Comenzando 🚀
 
 
-
+file:///C:/Users/Equipo/Desktop/f39b4e93-95c9-44cd-b8b6-acb97c4d1652.jpg
 
 ### Pre-requisitos 📋
 
