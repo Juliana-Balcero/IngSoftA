@@ -6,11 +6,11 @@ etc. Primeramente, en nuestra App se registra un primer usuario, el cuál puede 
 en su grupo a otras personas y a partir de allí cada uno es capaz de acceder a
 información acerca de dinero disponible, información de cantidades gastadas por los
 otros usuarios del grupo y demás.
-
+<br/><br/>
 ## Comenzando 🚀
 
 
-
+<br/><br/>
 ### Pre-requisitos 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
@@ -18,11 +18,11 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 ```
 Da un ejemplo
 ```
-
+<br/><br/>
 ### Instalación 🔧
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
+<br/><br/>
 * **Configurando el entorno**
 
 Windows PowerShell
@@ -153,7 +153,7 @@ programación)
 * **Luigi Cano Valdes** - *Documentación*
 
  
-
+<br/><br/>
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
