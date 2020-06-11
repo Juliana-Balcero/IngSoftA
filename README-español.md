@@ -7,15 +7,9 @@ en su grupo a otras personas y a partir de allí cada uno es capaz de acceder a
 información acerca de dinero disponible, información de cantidades gastadas por los
 otros usuarios del grupo y demás.
 
-## Recursos 🚀
+## Comenzando 🚀
 
-Para esta parte de desarrollo se tuvo en consideración los conocimientos que
-tenemos los integrantes del grupo, de ahí se decidió utilizar 
 
-* Python (lenguaje de
-programación)
-* Flask (framework) 
-* MySQL (base de datos).
 
 
 ### Pre-requisitos 📋
@@ -70,11 +64,13 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+Para esta parte de desarrollo se tuvo en consideración los conocimientos que
+tenemos los integrantes del grupo, de ahí se decidió utilizar 
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* Python (lenguaje de
+programación)
+* Flask (framework) 
+* MySQL (base de datos).
 
 ## Contribuyendo 🖇️
 
