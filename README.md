@@ -126,9 +126,10 @@ Requirement already satisfied: MarkupSafe>=0.23 in c:\users\equipo\venv\lib\site
 
 ## Diagrama de clases ⚙️
 
+<br/><br/>
+![Sin título3](https://user-images.githubusercontent.com/66752504/84430869-f38f2700-abef-11ea-9db6-1be54b17f985.jpg)
 
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
 
 <br/><br/>
 ## Salidas de la Base de Datos 🔩
