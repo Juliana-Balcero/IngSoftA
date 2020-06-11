@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+{% extends "bootstrap/base.html" %}
+{% block title %}Analisis de datos Twitter{% endblock %}
+{% block content %}
+
+    <div class="container">
+        <form action="/hola" method="GET">
+            <div class="col-md-8 col-md-offset-2">
+                <div >
+                    <h1> <B><FONT COLOR="black"> Beads </h1>
+                </div>
+                
+                <div class="form-group">
+                <label for="username">Nombre: </label>
+                    <input class="form-control" type="text" id="username" name="nombre" placeholder="Juan" required/><br>
+                </div>
+                <div class="form-group">
+                <label for="username">Apellidos: </label>
+                    <input class="form-control" type="text" id="username" name="apellido" placeholder="Fonseca martelo" required/><br>
+                </div>
+                <div class="form-group">
+                <label for="username">Teléfono: </label>
+                    <input class="form-control" type="text" id="username" name="telefono" placeholder="1234567890" required/><br>
+                </div>
+                <div class="form-group">
+                <label for="username">Dirección: </label>
+                    <input class="form-control" type="text" id="username" name="direccion" placeholder="Cll 14 con Av. PH" required/><br>
+                </div>
+
+                <div class="form-group">
+                <label for="username">Correo: </label>
+                    <input class="form-control" type="text" id="username" name="correo" placeholder="@Example" required/><br>
+                </div>
+                <div class="spinner-border text-primary" role="status">
+                    <input class="btn btn-primary" input type="submit" id="send-signup" name="signup"  value="Guardar información " />
+                <h3>
+                    {{j}}
+                </h3>
+                <h3>
+                    {{k}}
+                </h3>
+                    
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+{% endblock %}
+                                 
+</body>
+</html>
+
+
+
