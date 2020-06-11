@@ -124,7 +124,9 @@ Requirement already satisfied: MarkupSafe>=0.23 in c:\users\equipo\venv\lib\site
  * Debug mode: off
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
-## Ejecutando las pruebas ⚙️
+## Diagrama de clases ⚙️
+
+
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 
