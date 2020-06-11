@@ -79,22 +79,22 @@ activators BashActivator,BatchActivator,FishActivator,PowerShellActivator,Python
 
 PS C:\Users\Equipo>
 
-**Ahora en el símbolo del sistema**
+* **Ahora en el símbolo del sistema**
 
 Microsoft Windows [Versión 10.0.17763.1282]
 (c) 2018 Microsoft Corporation. Todos los derechos reservados.
 
-C:\Users\Equipo>cd C:\Users\Equipo\venv
+C:\Users\Equipo>**cd C:\Users\Equipo\venv**
 
-C:\Users\Equipo\venv>cd Scripts
+C:\Users\Equipo\venv>**cd Scripts**
 
-C:\Users\Equipo\venv\Scripts>activate
+C:\Users\Equipo\venv\Scripts>**activate**
 
-(venv) C:\Users\Equipo\venv\Scripts>cd ..
+(venv) C:\Users\Equipo\venv\Scripts>**cd ..**
 
-(venv) C:\Users\Equipo\venv>app1.py
+(venv) C:\Users\Equipo\venv>**app1.py**
 
-(venv) C:\Users\Equipo\venv>pip install Flask
+(venv) C:\Users\Equipo\venv>**pip install Flask**
 Requirement already satisfied: Flask in c:\users\equipo\venv\lib\site-packages (1.1.2)
 Requirement already satisfied: click>=5.1 in c:\users\equipo\venv\lib\site-packages (from Flask) (7.1.2)
 Requirement already satisfied: Werkzeug>=0.15 in c:\users\equipo\venv\lib\site-packages (from Flask) (1.0.1)
@@ -102,7 +102,7 @@ Requirement already satisfied: itsdangerous>=0.24 in c:\users\equipo\venv\lib\si
 Requirement already satisfied: Jinja2>=2.10.1 in c:\users\equipo\venv\lib\site-packages (from Flask) (2.11.2)
 Requirement already satisfied: MarkupSafe>=0.23 in c:\users\equipo\venv\lib\site-packages (from Jinja2>=2.10.1->Flask) (1.1.1)
 
-(venv) C:\Users\Equipo\venv>python app1.py
+(venv) C:\Users\Equipo\venv>**python app1.py**
  * Serving Flask app "app1" (lazy loading)
  * Environment: production
    WARNING: This is a development server. Do not use it in a production deployment.
@@ -130,10 +130,6 @@ _Explica que verifican estas pruebas y por qué_
 Da un ejemplo
 ```
 
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
 ## Construido con 🛠️
 
 Para esta parte de desarrollo se tuvo en consideración los conocimientos que
@@ -142,19 +138,7 @@ tenemos los integrantes del grupo, de ahí se decidió utilizar
 * Python (lenguaje de
 programación)
 * Flask (framework) 
-* MySQL (base de datos).
-
-## Contribuyendo 🖇️
-
-
-
-## Wiki 📖
-
-
-
-## Versionado 📌
-
-
+* MySQL (base de datos)
 
 ## Autores ✒️
 
@@ -164,10 +148,6 @@ programación)
 * **Luigi Cano Valdes** - *Documentación*
 
  
-
-## Licencia 📄
-
-
 
 ## Expresiones de Gratitud 🎁
 
