@@ -1,4 +1,4 @@
-# Beads App
+# Beads App🚀
 
 Beads es una App que consiste en manejar las cuentas ya sea de un usuario o más,
 con la finalidad de almacenar, registrar y manejar gastos de una pareja, grupo familiar,
@@ -6,18 +6,33 @@ etc. Primeramente, en nuestra App se registra un primer usuario, el cuál puede 
 en su grupo a otras personas y a partir de allí cada uno es capaz de acceder a
 información acerca de dinero disponible, información de cantidades gastadas por los
 otros usuarios del grupo y demás.
-<br/><br/>
-## Comenzando 🚀
-
 
 <br/><br/>
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
-Da un ejemplo
+Durante un periodo de cuatro semanas se establecieron las bases que todo ingeniero
+de sistemas y desarrollador de software debe tener presente a la hora de realizar su
+labor, los dos temas a destacar son:
+
+- Ética En la ingeniería de Software: En el desarrollo de software se pueden
+presentar algunos conflictos éticos y profesionales de gran relevancia, por
+tanto, la persona a cargo debe estar en la capacidad de saber sobrellevar estos
+de tal manera que impacten en el menor grado a todos los involucrados y que
+en la medida de lo posible sea consciente de la información que puede llegar
+a estar en su poder. 
+
+- Aprendizaje de metodologías ágiles: Estudio de los métodos de desarrollo ágil
+de software y el manifiesto ágil, así como de las distinciones entre el desarrollo
+ágil y el dirigido. Esto, con el fin de tener conocimiento de las prácticas en la 
+programación extrema y su similitud con los principios generales de los
+métodos ágiles. Por otra parte, es vital entender el enfoque de Scrum para la
+administración de un proyecto ágil. 
 ```
+
+**Contando con una base conceptual, el primer paso a efectuar es el desarrollo del ciclo
+de los requerimientos funcionales y no funcionales por parte de los interesados.**
 <br/><br/>
 ### Instalación 🔧
 
