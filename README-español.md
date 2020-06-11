@@ -117,6 +117,17 @@ _Explica como ejecutar las pruebas automatizadas para este sistema_
 ### Salidas de la Base de Datos 🔩
 
 
+![3cca1588-fde9-48c1-9c4c-3ed0518773d8](https://user-images.githubusercontent.com/66752504/84427180-19b1c880-abea-11ea-840e-e135d6290cbf.jpg)
+
+*
+*
+*
+*
+*
+
+![e9f0a765-ca7f-465f-a3f6-a376a539b4ca](https://user-images.githubusercontent.com/66752504/84427186-1e767c80-abea-11ea-95c4-04af0d9bb12f.jpg)
+
+
 
 
 ### Salidas de al app ⌨️
