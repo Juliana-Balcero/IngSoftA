@@ -161,6 +161,8 @@ programación)
 <br/><br/>
 
 ## Diseño Arquitectónico 📦
+<br/><br/>
+![Sin título2](https://user-images.githubusercontent.com/66752504/84430300-1bca5600-abef-11ea-8028-cb76ae849ffe.jpg)
 
 
 
