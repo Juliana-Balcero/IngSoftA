@@ -15,13 +15,13 @@ def index():
 connection = pymysql.connect(
 host = "localhost", 
 user = "root",
-password = "1230",
+password = "",
 db = "beadsapp")
 	
 cursor = connection.cursor()
 
 def leer():
-	sql = "SELECT name  FROM data3"
+	sql = "SELECT name  FROM data"
 
 	cursor.execute(sql)
 
@@ -35,7 +35,7 @@ def leer():
 def hola():
 	respuesta1 = request.args.get('nombre')
 	
-	sql = """INSERT INTO data3(name) VALUES (%s)"""
+	sql = """INSERT INTO data(name) VALUES (%s)"""
 	recordTuple=(respuesta1)
 
 	cursor.execute(sql,recordTuple)
