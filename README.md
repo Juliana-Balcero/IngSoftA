@@ -1,2 +1,2 @@
-# IngSoftA
+# Beads
 Aplicación web  "Beads"
