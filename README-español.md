@@ -95,6 +95,7 @@ C:\Users\Equipo\venv\Scripts>**activate**
 (venv) C:\Users\Equipo\venv>**app1.py**
 
 (venv) C:\Users\Equipo\venv>**pip install Flask**
+
 Requirement already satisfied: Flask in c:\users\equipo\venv\lib\site-packages (1.1.2)
 Requirement already satisfied: click>=5.1 in c:\users\equipo\venv\lib\site-packages (from Flask) (7.1.2)
 Requirement already satisfied: Werkzeug>=0.15 in c:\users\equipo\venv\lib\site-packages (from Flask) (1.0.1)
