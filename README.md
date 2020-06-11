@@ -124,6 +124,12 @@ Requirement already satisfied: MarkupSafe>=0.23 in c:\users\equipo\venv\lib\site
  * Debug mode: off
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
+<br/><br/>
+## Diseño Arquitectónico 📦
+<br/><br/>
+![Sin título2](https://user-images.githubusercontent.com/66752504/84430300-1bca5600-abef-11ea-8028-cb76ae849ffe.jpg)
+
+
 ## Diagrama de clases ⚙️
 
 <br/><br/>
@@ -163,16 +169,6 @@ programación)
 
 <br/><br/>
 
-## Diseño Arquitectónico 📦
-<br/><br/>
-![Sin título2](https://user-images.githubusercontent.com/66752504/84430300-1bca5600-abef-11ea-8028-cb76ae849ffe.jpg)
-
-
-
-
-
-
-<br/><br/>
 ## Autores ✒️
 
 * **Juliana Balcero** - *Implementación de la App*
