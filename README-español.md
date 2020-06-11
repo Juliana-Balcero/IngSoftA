@@ -25,7 +25,18 @@ Da un ejemplo
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
 _Dí cómo será ese paso_
-![Alt text](relative/path/to/sintitulo1.jpg?raw=true "Title")
+
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+PS C:\Users\Equipo> pip install flask
+Requirement already satisfied: flask in c:\users\equipo\anaconda3\lib\site-packages (1.1.1)
+Requirement already satisfied: Werkzeug>=0.15 in c:\users\equipo\anaconda3\lib\site-packages (from flask) (1.0.0)
+Requirement already satisfied: itsdangerous>=0.24 in c:\users\equipo\anaconda3\lib\site-packages (from flask) (1.1.0)
+Requirement already satisfied: Jinja2>=2.10.1 in c:\users\equipo\anaconda3\lib\site-packages (from flask) (2.11.1)
+Requirement already satisfied: click>=5.1 in c:\users\equipo\anaconda3\lib\site-packages (from flask) (7.0)
+Requirement already satisfied: MarkupSafe>=0.23 in c:\users\equipo\anaconda3\lib\site-packages (from Jinja2>=2.10.1->flask) (1.1.1)
+PS C:\Users\Equipo>
 
 ```
 Da un ejemplo
