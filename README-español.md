@@ -86,9 +86,8 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-
-* **César Badillo** - *Implementación de la App* 
 * **Juliana Balcero** - *Implementación de la App*
+* **César Badillo** - *Implementación de la App* 
 * **Juan David Ruiz** - *Documentación*
 * **Luigi Cano Valdes** - *Documentación*
 
