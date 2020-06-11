@@ -11,7 +11,7 @@ otros usuarios del grupo y demás.
 
 * Python (lenguaje de
 programación)
-* Djando (framework) 
+* Flask (framework) 
 * MySQL (base de datos).
 
 
