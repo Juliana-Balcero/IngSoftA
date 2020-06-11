@@ -1,6 +1,11 @@
-# Título del Proyecto
+# Beads App
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Beads es una App que consiste en manejar las cuentas ya sea de un usuario o más,
+con la finalidad de almacenar, registrar y manejar gastos de una pareja, grupo familiar,
+etc. Primeramente, en nuestra App se registra un primer usuario, el cuál puede anexar
+en su grupo a otras personas y a partir de allí cada uno es capaz de acceder a
+información acerca de dinero disponible, información de cantidades gastadas por los
+otros usuarios del grupo y demás.
 
 ## Comenzando 🚀
 
@@ -101,5 +106,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+
