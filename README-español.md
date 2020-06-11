@@ -24,7 +24,7 @@ Da un ejemplo
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
-_Dí cómo será ese paso_
+* **Configurando el entorno**
 
 Windows PowerShell
 Copyright (C) Microsoft Corporation. Todos los derechos reservados.
@@ -44,6 +44,16 @@ Requirement already satisfied: click>=5.1 in c:\users\equipo\anaconda3\lib\site-
 Requirement already satisfied: MarkupSafe>=0.23 in c:\users\equipo\anaconda3\lib\site-packages (from Jinja2>=2.10.1->flask) (1.1.1)
 
 PS C:\Users\Equipo>
+PS C:\Users\Equipo> pip install virtualenv
+Requirement already satisfied: virtualenv in c:\users\equipo\anaconda3\lib\site-packages (20.0.21)
+Requirement already satisfied: appdirs<2,>=1.4.3 in c:\users\equipo\anaconda3\lib\site-packages (from virtualenv) (1.4.4)
+Requirement already satisfied: filelock<4,>=3.0.0 in c:\users\equipo\anaconda3\lib\site-packages (from virtualenv) (3.0.12)
+Requirement already satisfied: importlib-metadata<2,>=0.12; python_version < "3.8" in c:\users\equipo\anaconda3\lib\site-packages (from virtualenv) (1.5.0)
+Requirement already satisfied: six<2,>=1.9.0 in c:\users\equipo\anaconda3\lib\site-packages (from virtualenv) (1.14.0)
+Requirement already satisfied: distlib<1,>=0.3.0 in c:\users\equipo\anaconda3\lib\site-packages (from virtualenv) (0.3.0)
+Requirement already satisfied: zipp>=0.5 in c:\users\equipo\anaconda3\lib\site-packages (from importlib-metadata<2,>=0.12; python_version < "3.8"->virtualenv) (2.2.0)
+PS C:\Users\Equipo>
+
 
 ```
 Da un ejemplo
