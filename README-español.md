@@ -22,7 +22,6 @@ Da un ejemplo
 ### Instalación 🔧
 
 
-<br/><br/>
 * **Configurando el entorno**
 
 Windows PowerShell
