@@ -21,7 +21,7 @@ Da un ejemplo
 <br/><br/>
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+
 <br/><br/>
 * **Configurando el entorno**
 
@@ -154,12 +154,12 @@ programación)
 
  
 <br/><br/>
-## Expresiones de Gratitud 🎁
+## Agradecimientos 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+
+* Invito a mi grupo a una  cerveza 🍺  
+* Gracias a todos por su aporte 🤓.
+
 
 
 
