@@ -10,7 +10,6 @@ otros usuarios del grupo y demás.
 ## Comenzando 🚀
 
 
-file:///C:/Users/Equipo/Desktop/f39b4e93-95c9-44cd-b8b6-acb97c4d1652.jpg
 
 ### Pre-requisitos 📋
 
@@ -115,21 +114,15 @@ Requirement already satisfied: MarkupSafe>=0.23 in c:\users\equipo\venv\lib\site
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 
-### Analice las pruebas end-to-end 🔩
+### Salidas de la Base de Datos 🔩
 
-_Explica que verifican estas pruebas y por qué_
 
-```
-Da un ejemplo
-```
 
-### Y las pruebas de estilo de codificación ⌨️
 
-_Explica que verifican estas pruebas y por qué_
+### Salidas de al app ⌨️
 
-```
-Da un ejemplo
-```
+![f39b4e93-95c9-44cd-b8b6-acb97c4d1652](https://user-images.githubusercontent.com/66752504/84426767-62b54d00-abe9-11ea-90f3-4651ec1a5e6e.jpg)
+
 
 ## Construido con 🛠️
 
