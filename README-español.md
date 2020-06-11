@@ -9,6 +9,9 @@ otros usuarios del grupo y demás.
 
 ## Recursos 🚀
 
+#Para esta parte de desarrollo se tuvo en consideración los conocimientos que
+tenemos los integrantes del grupo, de ahí se decido utilizar 
+
 * Python (lenguaje de
 programación)
 * Flask (framework) 
