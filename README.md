@@ -159,6 +159,15 @@ programación)
 * MySQL (base de datos)
 
 <br/><br/>
+
+## Diseño Arquitectónico 📦
+
+
+
+
+
+
+<br/><br/>
 ## Autores ✒️
 
 * **Juliana Balcero** - *Implementación de la App*
