@@ -7,7 +7,7 @@ en su grupo a otras personas y a partir de allí cada uno es capaz de acceder a
 información acerca de dinero disponible, información de cantidades gastadas por los
 otros usuarios del grupo y demás.
 
-<br/><br/>
+
 ### Pre-requisitos 📋
 
 
@@ -31,7 +31,7 @@ métodos ágiles. Por otra parte, es vital entender el enfoque de Scrum para la
 administración de un proyecto ágil. 
 ```
 
-**Contando con una base conceptual, el primer paso a efectuar es el desarrollo del ciclo
+* **Contando con una base conceptual, el primer paso a efectuar es el desarrollo del ciclo
 de los requerimientos funcionales y no funcionales por parte de los interesados.**
 <br/><br/>
 ### Instalación 🔧
