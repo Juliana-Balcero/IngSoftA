@@ -7,7 +7,7 @@ en su grupo a otras personas y a partir de allí cada uno es capaz de acceder a
 información acerca de dinero disponible, información de cantidades gastadas por los
 otros usuarios del grupo y demás.
 
-## Comenzando 🚀
+## Recursos 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
