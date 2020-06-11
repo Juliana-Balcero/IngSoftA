@@ -91,7 +91,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 * **Juan David Ruiz** - *Documentación*
 * **Luigi Cano Valdes** - *Documentación*
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+ 
 
 ## Licencia 📄
 
