@@ -126,7 +126,7 @@ _Explica como ejecutar las pruebas automatizadas para este sistema_
 
 
 
-<br/><br/>Salidas de al app ⌨️
+<br/><br/<br/><br/<br/><br/>**Salidas de al app** ⌨️
 
 ![f39b4e93-95c9-44cd-b8b6-acb97c4d1652](https://user-images.githubusercontent.com/66752504/84426767-62b54d00-abe9-11ea-90f3-4651ec1a5e6e.jpg)
 
