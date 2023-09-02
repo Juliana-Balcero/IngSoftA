@@ -1,5 +1,4 @@
-# Beads App🚀
-
+# Beads App
 Beads es una App que consiste en manejar las cuentas ya sea de un usuario o más,
 con la finalidad de almacenar, registrar y manejar gastos de una pareja, grupo familiar,
 etc. Primeramente, en nuestra App se registra un primer usuario, el cuál puede anexar
